@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+#inkwell1 {
+    bottom: 800px;
+    left: 600px;
+    position: fixed;
+}
+#inkwell2 {
+    bottom: 600px;
+    left: 600px;
+    position: fixed;
+    visibility: hidden;
+}
+#letter {
+    font-family: Yanone Kaffeesatz', 'sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 50px auto;
+    position: relative;
+    width: 85%;
+	color:#FFFFFF;
+	margin-left: -5px;
+	
+}
+#letter_src {
+    display: none;
+	
+}
+
+#release{
+text-align: center;
+
+
+}
